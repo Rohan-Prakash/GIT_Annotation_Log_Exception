@@ -1,0 +1,10 @@
+Why create your annotation ?
+    1. As passive documentation in your code
+    2. As input for a Java Source code processor
+    3. As input for a Java Library that accesses your annotations at runtime via Java Reflection
+
+Java Toolkits Using their own Annotations
+    1. Spring Framework
+    2. Jackson JSON toolkit
+    2. Hibernate
+     . . . etc
